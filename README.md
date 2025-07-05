@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lakshika11&label=Profile%20views&color=0e75b6&style=flat" alt="lakshika11" /> </p>
 
-- 🌱 I’m currently learning **Java, JS**
+- 🌱 I’m currently learning **Java, C#**
 
 - I’m a Computer Science undergraduate at **University of Ruhuna**
 
